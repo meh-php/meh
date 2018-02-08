@@ -1,0 +1,21 @@
+{
+    "name": "meh-php/meh",
+    "description": "Which language I will choose for my next project? Meh. PHP!",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sullivan SENECHAL",
+            "email": "soullivaneuh@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "require-dev": {
+        "symplify/monorepo": "^3.2"
+    }
+}
